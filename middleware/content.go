@@ -7,7 +7,7 @@ import (
 
 	"github.com/gorilla/context"
 
-	"github.com/neo9-polska/PhotoSaloon-backend/common"
+	"github.com/Puksi-Team/RatioCare-backend/common"
 )
 
 // BodyParser middleware parses body of request to given structure and
